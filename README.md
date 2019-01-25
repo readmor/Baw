@@ -1,7 +1,7 @@
 # Baw
 Brand Affiliated Wallet
 
-Custodial, easy to deploy and use lightning wallets such as the Blue Wallet sparked an idea. They are very easy and with true marketing can spread out like wildfire. I am suggesting Brand Affiliated Wallets. 
+Custodial, easy to deploy and easy to use lightning wallets such as the Blue Wallet sparked an idea. They are very easy and with true marketing can spread out like wildfire. I am suggesting Brand Affiliated Wallets. 
 
 Think of your favorite sports team, lets say it is Barcelona FC. Imagine them having a Barcelona FC BAW wallet. The BAW wallet runs on Barcelona FC's node and with each payment you do, the BAW wallet sends out a 2nd micro transaction (to the wallet set by the BAW wallet you use). 
 
